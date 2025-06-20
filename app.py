@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load data and model
-df_eng = pd.read_csv("nafdac_products.csv")
+df_eng = pd.read_csv("nafdac_data.csv")
 embeddings = np.load("drug_embeddings.npy")
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
