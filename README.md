@@ -46,12 +46,6 @@ Built with **Python**, **Hugging Face Sentence Transformers**, and deployed usin
 
 ---
 
-## Project Preview
-
-> [ Click here to view the interface screenshot](link-to-pictures)
-
----
-
 ## Dataset
 
 * Drug product data was scraped from the official [NAFDAC Products Database](https://nafdac.gov.ng/).
