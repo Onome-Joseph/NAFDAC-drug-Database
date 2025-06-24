@@ -1,6 +1,6 @@
 # Drug Recommender System (NAFDAC Database)
 
-https://github.com/user-attachments/assets/a1501929-7efc-42f9-bdcf-66082db01f74
+https://github.com/user-attachments/assets/a5c77c81-d5f2-4b95-9a05-39aef87ed24e
 
 ##  Overview
 
