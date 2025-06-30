@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/a5c77c81-d5f2-4b95-9a05-39aef87ed24e
 
 ##  Overview
 
-This project is a **Drug Recommender System** built using the official NAFDAC (National Agency for Food and Drug Administration and Control) products database. It helps users find similar or alternative drugs by recommending medications based on name, type, or function. Additionally, it displays the NAFDAC Registration Number of any drug in the dataset.
+This project is a **Drug Recommender System** built using the official NAFDAC (National Agency for Food and Drug Administration and Control) products database. It helps users find similar or alternative drugs by recommending medications based on name, type, or function. Additionally, it displays the NAFDAC Registration Number of any drug in the database.
 
 Built with **Python**, **Hugging Face Sentence Transformers**, and deployed using a **Flask web application**, this project contributes to the fight against fake drugs in Nigeria by allowing users to cross-verify authentic medications.
 
